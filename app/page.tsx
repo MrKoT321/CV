@@ -6,7 +6,7 @@ export default function CV() {
         <div className={styles.resume}>
             <section className={styles.header}>
                 <Image
-                    src="/images/img.png"
+                    src="https://study.ispring.ru/image/download/api/public/download/v1/image/3722b32e-4e28-11ee-9de3-7671d23d65fe/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhIjoiaXNscnUtMTAwNzQzMzciLCJpIjoiMzcyMmIzMmUtNGUyOC0xMWVlLTlkZTMtNzY3MWQyM2Q2NWZlIiwidyI6MCwiaCI6MCwiZiI6MCwiciI6MCwiZXhwIjoxNzM4NTQwODAwLCJMZWV3YXlUaW1lIjpudWxsfQ.hs6ltG5-SqdnhacII98GMfvumgghGDIAXy3O5gpwYCw"
                     alt="User profile image"
                     width={150}
                     height={150}
